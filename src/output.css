@@ -174,17 +174,8 @@
   .z-100 {
     z-index: 100;
   }
-  .my-\[\.5em\] {
-    margin-block: .5em;
-  }
-  .my-\[1\.5em\] {
-    margin-block: 1.5em;
-  }
   .mt-10 {
     margin-top: calc(var(--spacing) * 10);
-  }
-  .mt-\[1\.5em\] {
-    margin-top: 1.5em;
   }
   .mb-5 {
     margin-bottom: calc(var(--spacing) * 5);
@@ -195,8 +186,8 @@
   .mb-\[\.5em\] {
     margin-bottom: .5em;
   }
-  .mb-\[1em\] {
-    margin-bottom: 1em;
+  .ml-5 {
+    margin-left: calc(var(--spacing) * 5);
   }
   .flex {
     display: flex;
